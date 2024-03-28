@@ -1,0 +1,17 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+body{
+	background-color:purple;
+}
+
+h3{
+	text-transform:capitalize;
+}
+
+#stdContainer i{
+	cursor: pointer;
+}
